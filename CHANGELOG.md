@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-06-23)
+
+<section class="features">
+
+### Features
+
+-   [`f344e9d`](https://github.com/stdlib-js/stdlib/commit/f344e9d6c049596d178389bd07f3be5eace72deb) - add `stats/base/dists/kumaraswamy/stdev` [(#4513)](https://github.com/stdlib-js/stdlib/pull/4513)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3706](https://github.com/stdlib-js/stdlib/issues/3706)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`f344e9d`](https://github.com/stdlib-js/stdlib/commit/f344e9d6c049596d178389bd07f3be5eace72deb) - **feat:** add `stats/base/dists/kumaraswamy/stdev` [(#4513)](https://github.com/stdlib-js/stdlib/pull/4513) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Philipp Burckhardt
+-   Shabareesh Shetty
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
