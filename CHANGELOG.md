@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-23)
+## Unreleased (2025-07-01)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`83af59d`](https://github.com/stdlib-js/stdlib/commit/83af59de17b7e0db3d95fb5959ec0f38cf63c88e) - **test:** increase needed tolerances for tests to pass _(by Philipp Burckhardt)_
 -   [`f344e9d`](https://github.com/stdlib-js/stdlib/commit/f344e9d6c049596d178389bd07f3be5eace72deb) - **feat:** add `stats/base/dists/kumaraswamy/stdev` [(#4513)](https://github.com/stdlib-js/stdlib/pull/4513) _(by Shabareesh Shetty, Philipp Burckhardt, stdlib-bot)_
 
 </details>
