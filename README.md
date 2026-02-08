@@ -84,7 +84,7 @@ with `B` denoting the [beta function][beta-function].
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-stdev@v0.3.1-esm/index.mjs';
 ```
 
 #### stdev( a, b )
@@ -160,7 +160,7 @@ y = stdev( 0.5, 0.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-kumaraswamy-stdev@v0.3.1-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
