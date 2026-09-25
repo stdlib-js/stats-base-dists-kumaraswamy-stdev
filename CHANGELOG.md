@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-16)
+## Unreleased (2026-09-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`6902d5d`](https://github.com/stdlib-js/stdlib/commit/6902d5db7464c0b65849e332004b1432758f133c) - **test:** migrate `stats/base/dists/kumaraswamy/stdev` to ULP-based assertions [(#15533)](https://github.com/stdlib-js/stdlib/pull/15533) _(by Athan Reines)_
 -   [`9430db6`](https://github.com/stdlib-js/stdlib/commit/9430db645b6b1d36afb35e2fe3275d9ce4c384b8) - **refactor:** reuse variance implementation for stdev in `stats/base/dists` [(#11370)](https://github.com/stdlib-js/stdlib/pull/11370) _(by Om-A-osc, Athan Reines)_
 
 </details>
